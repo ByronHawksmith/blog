@@ -11,12 +11,6 @@ description: Software Engineer from Adelaide, South Australia
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/60097760
 
-# Theme related configuration
-remote_theme: jekyll/minima
-
-minima:
-  skin: dark
-
 #
 # Flags below are optional
 #
