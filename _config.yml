@@ -12,7 +12,7 @@ description: Software Engineer from Adelaide, South Australia
 avatar: https://avatars3.githubusercontent.com/u/60097760
 
 # Theme related configuration
-theme: jekyll-theme-minima
+remote_theme: jekyll/minima
 
 minima:
   skin: dark
