@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asceticism vs Hedonism: The Path to True Freedom
+title: 'Asceticism vs Hedonism: The Path to True Freedom'
 ---
 
 # Introduction
