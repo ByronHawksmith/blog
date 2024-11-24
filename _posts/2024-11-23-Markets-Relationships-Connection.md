@@ -3,7 +3,7 @@ layout: post
 title: "Markets, Relationships, and the Ruthless Art of Connection"
 ---
 
-Markets are brutal. Not the "invisible hand" fairy tale gets taught in Economics 101, but a gladiatorial arena where perception crushes reality. Selling a second-hand chair? It’s not just a chair—it’s _your chair_ versus _everyone else’s chair._ Your price, your photos, your description are pitted against theirs in a relentless battle for attention.
+Markets are brutal. Not the "invisible hand" fairy tale that gets taught in Economics 101, but a gladiatorial arena where perception crushes reality. Selling a second-hand chair? It’s not just a chair—it’s _your chair_ versus _everyone else’s chair._ Your price, your photos, your description are pitted against theirs in a relentless battle for attention.
 
 Tweak your variables—drop the price, add better lighting, rewrite the description—and the response shifts. But while you’re strategizing, so are they. It’s a fluid, living system, an endless war of signals and choices, action and reaction.
 
