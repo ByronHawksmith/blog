@@ -39,10 +39,10 @@ Minimalism isn’t new-age fluff—it’s survival. Reject the overload, or be c
 
 Let’s break this down:
 
-- **Software**: The best tools don’t do everything—they do the right things. Think of the brilliance of an iPhone’s default interface compared to the clutter of poorly-designed apps. Clarity and consistency create usability.
-- **The Human Body**: Fad diets, supplements, gym gadgets—most are scams. Your body thrives on simplicity: real food, natural movement, deep rest. Overcomplication hides a lack of discipline and an alarming ignorance.
-- **Living Spaces**: A house isn’t a museum. Its purpose is rest and connection. Everything else is noise.
-- **Family Dynamics**: Arguments over nothing. Expectations no one agreed to. Pride poisoning the air. Families don’t fail for lack of love—they fail because they bury it under unnecessary garbage.
+- **Software**: The best tools don’t try to be everything—they focus on what matters. Apple Notes nails this. It’s fast, simple, and works exactly how you need it to. Compare that to the endless parade of apps weighed down by convoluted integrations, subscription schemes, slow load times, and features no one asked for. They’re bloated, not better.
+- **The Human Body**: Fad diets. Magical supplements. The latest gym contraption. Most of this is nonsense. Your body doesn’t need complexity; it needs the basics: real food, natural movement, deep sleep. The truth? Overcomplication is just a fancy way to dodge discipline.
+- **Relationships**: Here’s a secret: families don’t fall apart because of a lack of love. They fall apart because of clutter. Arguments about nothing. Expectations no one agreed to. Pride turning into poison. Cut the noise, and love will do the heavy lifting.
+- **Living Spaces**: A home isn’t a showroom. It’s not a storage locker either. Its job is simple: give you a place to rest and connect. Everything else? Junk. Toss it.
 
 **Simplicity liberates. Complexity suffocates.**
 
