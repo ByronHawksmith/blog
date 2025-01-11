@@ -25,6 +25,8 @@ The body, wondrous as it is, is destined for decay. Its frailty is not a punishm
 
 Discoveries are made, paradigms shift, and worldviews evolve. Technologies advance, and a renewed fervour for the material grows stronger every day. Yet, what has truly been gained?
 
+"What has been will be again, what has been done will be done again; there is nothing new under the sun." (_Ecclesiastes 1:9, NIV_)
+
 "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you. For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened." (_Matthew 7:7-8, NIV_)
 
 Advancements in technology, paradigm shifts, and evolving worldviews often carry the promise of progress. Yet, do they bring us closer to the Creator? We have charted the stars but remain estranged from our own souls. While the material world reflects God’s majesty, it too often becomes a veil that obscures Him. True progress is not found in innovation alone but in aligning every pursuit with His eternal purpose.
