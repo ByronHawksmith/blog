@@ -3,6 +3,8 @@ layout: post
 title: "The Pendulum Swings: Masculinity, Christianity, and the Coming Reckoning"
 ---
 
+<img src="{{ site.baseurl }}/images/the-pendulum-swings.png" style="width: 400px;"/>
+
 Suppression is not eradication. It is a pressure cooker. The forces we suppress today—whether masculine energy or Christianity’s moral framework—are not extinguished but repressed, accumulating power, tension, and potential energy. When that energy rebounds, it does so with force, precision, and inevitability.
 
 Our society, in its arrogance, believes it can suppress two foundational forces: **Christianity** and **masculinity.** It cannot. And when they return, as all repressed forces do, the reckoning will be transformative.

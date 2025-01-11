@@ -3,6 +3,8 @@ layout: post
 title: "The Wages of Sin: The Tragedy of Jane Margolis and the Destructive Dance of Choice"
 ---
 
+<img src="{{ site.baseurl }}/images/the-wages-of-sin.png" style="width: 400px;"/>
+
 _"The wages of sin are death."_ This chilling pronouncement from Romans 6:23 echoes through the story of Jane Margolis in _Breaking Bad_. Her death is a case study in how internal choices and external pressures create cascading consequences. But while her story appears simple on the surface—an addict’s tragic relapse—it is anything but. Jane’s death is the product of a tangled web of shared guilt, mutual destruction, and societal failure.
 
 The tragedy invites uncomfortable questions: Who is truly responsible for Jane’s death? Can any one person bear the burden of guilt? And, perhaps most importantly, could it have been prevented? Grappling with these questions reveals profound truths about morality, accountability, and the limits of grace.

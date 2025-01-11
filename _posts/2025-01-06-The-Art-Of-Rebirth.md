@@ -3,6 +3,8 @@ layout: post
 title: "The Art of Rebirth: Becoming the Author of Your Own Life"
 ---
 
+<img src="{{ site.baseurl }}/images/the-art-of-rebirth.png" style="width: 400px;"/>
+
 At some point, you died. Not in the physical sense, but spiritually, emotionally, or mentally. You felt the world grind to a halt, and within that stillness, a poison took root—the belief that your death was permanent, that nothing could grow again. Days, weeks, months, even years passed, and you convinced yourself that the barren soil of your soul was incapable of bearing fruit.
 
 This lie is the most insidious of all. It whispers that the past defines you, that the ashes of what you once were are all you will ever be. But the truth is far more profound, far more liberating: death is only a chapter, not the end of the book.

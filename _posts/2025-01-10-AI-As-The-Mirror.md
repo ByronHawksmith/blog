@@ -3,6 +3,8 @@ layout: post
 title: "AI as the Mirror: Reflections on Growth, Comfort, and the Human Condition"
 ---
 
+<img src="{{ site.baseurl }}/images/ai-as-the-mirror.png" style="width: 400px;"/>
+
 In a world increasingly mediated by artificial intelligence, the tools we create are not just instruments; they are mirrors. Mirrors that reflect our choices, our intentions, and ultimately, our very humanity. Among these tools, conversational AI like ChatGPT stands as a curious and potent example. It doesn’t dictate, it doesn’t impose—it responds. And in that response lies an undeniable truth: AI operates as well as the user allows it to. Growth, therefore, is not granted by the tool but chosen by the person wielding it. This is both liberating and damning.
 
 ## The Path of Least Resistance

@@ -3,7 +3,7 @@ layout: post
 title: "The Pursuit of Truth in a World of Illusions"
 ---
 
-[<img src="{{ site.baseurl }}/images/the-pursuit-of-truth.png" style="width: 400px;"/>]({{ site.baseurl }}/)
+<img src="{{ site.baseurl }}/images/the-pursuit-of-truth.png" style="width: 400px;"/>
 
 I increasingly wonder if life is just a series of illusions purposefully created to keep us from union with the Creator. Consider the distractions that saturate our daily lives: the pursuit of wealth, status, fleeting pleasures, and even the constant noise of modern life. They shimmer and dance, yet leave the soul empty. Beneath it all lies a question: _What is real?_
 

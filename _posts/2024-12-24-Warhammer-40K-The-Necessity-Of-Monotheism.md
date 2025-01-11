@@ -3,6 +3,8 @@ layout: post
 title: "Warhammer 40K - The Necessity of Monotheism: An Allegory for the Ages"
 ---
 
+<img src="{{ site.baseurl }}/images/warhammer-40k-the-necessity-of-monotheism.png" style="width: 400px;"/>
+
 The grimdark universe of _Warhammer 40K_ isn’t just a dystopian playground for power armor and chainswords. It’s a spiritual metaphor—a brutal, unflinching mirror that forces us to confront the chaos of human nature. At its heart lies an uncomfortable truth: when chaos reigns unchecked, when humanity splinters into endless factions of desire and despair, only a unifying force—a singular, overarching belief—can hold back the tide.
 
 _If you don’t worship one god, you’ll end up serving many._

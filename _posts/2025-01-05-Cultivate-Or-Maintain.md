@@ -3,6 +3,8 @@ layout: post
 title: "Cultivate or Maintain: The Constant Choice"
 ---
 
+<img src="{{ site.baseurl }}/images/cultivate-or-maintain.png" style="width: 400px;"/>
+
 Life hinges on a relentless dichotomy: **cultivation** or **maintenance**. In every domain—mind, body, relationships, or spirit—you are faced with this unyielding choice. You either cultivate what could be, or maintain what is. Growth or stagnation. Renewal or decay. These are the forces at play, and your life is their battlefield.
 
 To cultivate is to take risks, push boundaries, and embrace discomfort. It’s forward-looking and dynamic, requiring vision and courage. Maintenance, by contrast, preserves and protects. It stabilizes. Yet when maintenance becomes a shield for fear or complacency, it transforms into a silent killer of potential. Ask yourself: **Am I maintaining when I should be cultivating?** If the answer makes you uncomfortable, you’re not alone. Growth always begins with discomfort.
