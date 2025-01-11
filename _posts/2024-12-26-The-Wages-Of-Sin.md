@@ -35,44 +35,43 @@ This moment raises difficult ethical questions. Is allowing harm to occur as mor
 
 ### **Killing vs. Letting Die: Philosophical Perspectives**
 
-Philosophers have long debated the moral distinction between killing and letting die. Walt’s decision invites scrutiny through various ethical lenses:
+Philosophers have long debated the moral distinction between killing and letting die. Walt’s decision invites scrutiny through various ethical lenses, yet each framework reveals its own limitations when applied to the messy realities of human life:
 
-1. **Consequentialism: Uncertainty and the Problem of the "Greater Good"**  
-   Consequentialism evaluates actions based on their outcomes, but it faces a fundamental challenge: the uncertainty of predicting those outcomes. While critics might condemn Walt’s inaction for contributing to the catastrophic fallout—Donald Margolis’s breakdown and the plane crash—it’s impossible to know what would have happened had Jane lived. Perhaps she and Jesse would have spiraled further into addiction, causing greater harm. Or perhaps Jane would have been a stabilizing force for Jesse, helping him recover.
+#### **1. Consequentialism: Uncertainty and the Problem of the "Greater Good"**
 
-   Consequentialism hinges on weighing competing outcomes, but this often involves speculative reasoning. Walt might have justified his choice as minimizing harm to Jesse, whom he viewed as being led toward destruction by Jane. While consequentialism provides a framework for evaluating the consequences of Walt’s inaction, its reliance on uncertain predictions makes moral clarity elusive.
+Consequentialism evaluates actions based on their outcomes, but it faces a fundamental challenge: the uncertainty of predicting those outcomes. Critics might condemn Walt’s inaction for contributing to the catastrophic fallout—Donald Margolis’s breakdown and the plane crash—but it’s impossible to know what would have happened had Jane lived. Perhaps she and Jesse would have spiraled further into addiction, causing greater harm. Or perhaps Jane would have been a stabilizing force for Jesse, helping him recover.
 
-2. **Deontology: The Weight of Competing Duties**  
-   Deontology focuses on universal principles and duties, but it isn’t always clear how to prioritize them in real-world scenarios. Walt might have faced conflicting obligations: a duty to preserve life, a duty to protect Jesse, and a duty to safeguard his family. Saving Jane might have helped her, but it could also have resulted in Jesse’s further entanglement with substance abuse or even blackmail against Walt, endangering his family.
+This reliance on speculation exposes a key weakness of consequentialism. How can anyone act decisively when the “greater good” is always clouded by uncertainty? In Walt’s case, the attempt to minimize harm seems both rational and deeply flawed—reflecting the inherent ambiguity of an ethical system that lacks a clear, objective standard.
 
-   Deontology’s strength lies in its emphasis on moral rules, but those rules often collide in complex situations. Walt’s hesitation to act may reflect the weight of these competing duties, leaving him paralyzed by the ambiguity of which moral principle should take precedence.
+#### **2. Deontology: The Weight of Competing Duties**
 
-3. **Virtue Ethics: The Subjectivity of Virtues**  
-   Virtue ethics evaluates moral choices based on the character traits they express. Walt’s inaction might initially seem like a failure of virtues like compassion and empathy. But virtues are not absolute—they vary based on individual priorities and context. For instance, one might argue that Walt acted with foresight and resolve, seeing Jane’s death as a way to protect Jesse’s long-term well-being.
+Deontology focuses on universal principles and duties, but it isn’t always clear how to prioritize them in real-world scenarios. Walt might have faced conflicting obligations: a duty to preserve life, a duty to protect Jesse, and a duty to safeguard his family. Saving Jane might have helped her, but it could also have resulted in Jesse’s further entanglement with substance abuse or even blackmail against Walt, endangering his family.
 
-   Courage is another virtue open to interpretation. Was it courageous of Walt to let Jane die, resisting the instinct to intervene for the sake of a broader goal? Or was it cowardly, prioritizing self-preservation over moral responsibility? Virtue ethics shows how subjective judgments about character often depend on which virtues we value most and how we apply them to specific circumstances.
+While deontology emphasizes rules, it struggles to reconcile them when they collide. This tension reveals a deeper problem: without a hierarchy of principles, moral clarity remains elusive. In situations like Walt’s, where duties pull in opposing directions, deontology offers little guidance—leaving individuals to navigate the chaos of competing values.
 
-4. **Libertarianism: Autonomy Above All**  
-   Libertarian ethics focuses on individual responsibility and the sanctity of personal autonomy. From this perspective, Jane’s death was the result of her own choices. She chose to use heroin, knowing the risks, and put herself in a vulnerable position. A libertarian might argue that Walt had no obligation to interfere, as doing so would have undermined her autonomy.
+#### **3. Virtue Ethics: The Unstable Hierarchy of Virtues**
 
-   However, this view may feel overly detached in the context of personal relationships. Walt wasn’t a stranger—he was in a position to save Jane, and their shared connection complicates the libertarian emphasis on non-intervention. Still, this lens highlights the tension between respecting personal agency and stepping in to prevent harm.
+Virtue ethics evaluates moral choices based on the character traits they express. Walt’s inaction might initially seem like a failure of virtues like compassion and empathy. Yet the hierarchy of virtues is subjective, varying based on individual priorities and context. For instance, one might argue that Walt acted with foresight and resolve, seeing Jane’s death as a way to protect Jesse’s long-term well-being.
 
-5. **Existentialism: Owning the Choice**  
-   Existentialism places the burden of moral responsibility on individual agency. From this perspective, Walt’s decision was not an act of passivity but an assertion of his values and priorities. By choosing not to intervene, Walt defined himself as someone willing to prioritize his goals—protecting Jesse and safeguarding his family—over Jane’s life.
+Even courage—a celebrated virtue—proves slippery. Was it courageous of Walt to let Jane die, resisting the instinct to intervene for the sake of a broader goal? Or was it cowardly, prioritizing self-preservation over moral responsibility? Virtue ethics highlights the difficulty of determining right and wrong when virtues are open to interpretation. Without a fixed moral compass, virtue ethics can become a reflection of personal or cultural preferences rather than a reliable guide.
 
-   Existentialism demands that individuals fully own their choices, acknowledging the values those choices reflect. For Walt, this means accepting that his inaction was a reflection of his character, for better or worse. Whether his decision was moral or immoral, existentialism challenges us to see it as a deliberate, defining act.
+#### **4. Libertarianism: Autonomy Above All**
 
-### **The Complexity of Walt’s Choice**
+Libertarian ethics prioritizes individual responsibility and the sanctity of personal autonomy. From this perspective, Jane’s death was the result of her own choices. She chose to use heroin, knowing the risks, and put herself in a vulnerable position. A libertarian might argue that Walt had no obligation to interfere, as doing so would have undermined her autonomy.
 
-Walter White’s inaction cannot be neatly categorized as moral or immoral. Each ethical framework sheds light on different facets of his decision, but none provide a definitive answer:
+However, this perspective feels detached in the context of personal relationships. Walt wasn’t a stranger—he was in a position to save Jane, and their shared connection complicates the libertarian emphasis on non-intervention. This framework, while appealing in its defense of autonomy, seems inadequate when applied to moral dilemmas that demand compassion, responsibility, and sacrifice.
 
-- **Consequentialism** highlights the difficulty of predicting outcomes and determining the "greater good."
-- **Deontology** forces us to confront the complexity of competing duties and how they influence action.
-- **Virtue Ethics** shows that judgments about character depend on subjective interpretations of virtues.
-- **Libertarianism** defends Walt’s respect for Jane’s autonomy, though it struggles with the relational context of his choice.
-- **Existentialism** emphasizes the importance of owning one’s decisions as reflections of personal values.
+#### **5. Existentialism: Owning the Choice**
 
-Walt’s decision to let Jane die was a calculated act in a morally ambiguous situation. He didn’t create the conditions of her death, but he didn’t prevent them either. Whether his choice was right or wrong ultimately depends on the values one brings to the analysis.
+Existentialism places the burden of moral responsibility on individual agency. From this perspective, Walt’s decision was not an act of passivity but an assertion of his values and priorities. By choosing not to intervene, Walt defined himself as someone willing to prioritize his goals—protecting Jesse and safeguarding his family—over Jane’s life.
+
+Yet existentialism’s strength is also its weakness. It demands that individuals own their choices, but it provides no external standard to evaluate whether those choices are right or wrong. Walt’s decision reflects his character, but what if his character is flawed? Without an overarching moral law, existentialism risks making moral truth a matter of personal perspective, leaving us to wonder: are we capable of defining morality on our own?
+
+### **A Question of Foundations**
+
+While ethical frameworks like consequentialism, deontology, virtue ethics, libertarianism, and existentialism offer valuable insights, they share a common weakness: they depend on human reasoning, which is often subjective, speculative, and inconsistent. These frameworks may provide guidance, but they falter under the weight of real-world complexities and competing values.
+
+Perhaps the answer lies not in refining these systems but in considering whether a higher moral standard exists—one that transcends human limitations and provides the clarity we so often seek. Without such a foundation, are we left merely guessing at what is right and wrong? Or could the solutions to our deepest moral dilemmas lie beyond ourselves?
 
 ---
 
@@ -109,7 +108,7 @@ This is the tragedy of grace: it cannot save those who refuse it. Walt offered n
 
 ## **Conclusion: The Wages of Sin**
 
-Jane Margolis’s death was not the result of one person’s sin but the culmination of many. Walt’s pride, Jesse’s passivity, Jane’s addiction, and systemic failures all played a role. Yet, in the end, Jane’s choices—her internal cultivation—were the final determining factor.
+Jane Margolis’s death was not the result of one person’s sin but the culmination of many. Walt’s fear, Jesse’s passivity, Jane’s addiction, and systemic failures all played a role. Yet, in the end, Jane’s choices—her internal cultivation—were the final determining factor.
 
 This is the brutal truth of the wages of sin: they are earned through choices, grown through habits, and paid in full through consequences. But the story doesn’t end there. Grace offers an alternative—a way to break free from the cycles of sin and death. The question is whether it will be accepted.
 
